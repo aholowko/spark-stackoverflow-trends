@@ -1,1 +1,3 @@
 # StackOverflow Trends with Apache Spark
+
+image:https://travis-ci.org/aholowko/spark-stackoverflow-trends.svg?branch=master["Build Status", link="https://travis-ci.org/aholowko/spark-stackoverflow-trends"]
