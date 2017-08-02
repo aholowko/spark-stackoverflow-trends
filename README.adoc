@@ -1,3 +1,19 @@
 # StackOverflow Trends with Apache Spark
 
 image:https://travis-ci.org/aholowko/spark-stackoverflow-trends.svg?branch=master["Build Status", link="https://travis-ci.org/aholowko/spark-stackoverflow-trends"]
+
+#### TRENDS ANALYSIS OF PROGRAMMING LANGUAGES ACCORDING TO DATASET FROM STACK OVERFLOW
+
+The purpose of the thesis is trends analysis of programming languages according to dataset from Stack Overflow. 
+It aims to recognize the most frequently used programming language used by software developers.
+
+The analysis was conducted with use of Big Data techniques. 
+The main part of data processing was accomplished with Apache Spark engine for large-scale data processing. 
+The analyzed statistics are for example: number of questions concerning a programming language per month, number of developers answering questions about a programming language.
+
+The obtained results were graphically presented with tools such as Python Pandas and Altair.
+According to the presented analysis, the most popular programming languages among Stack Overflow users are 
+
+. “JavaScript” (growing popularity), 
+. “Java” (stable popularity), 
+. “C#” (shrinking popularity). 
